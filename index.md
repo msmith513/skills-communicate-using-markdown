@@ -1,4 +1,7 @@
 # header 1
 ### header 3, I guess?
 
-I added some headers
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
